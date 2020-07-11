@@ -121,3 +121,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #este es otro cambio en git
+
+#este cambio es para mi rama Requerimiento 11
